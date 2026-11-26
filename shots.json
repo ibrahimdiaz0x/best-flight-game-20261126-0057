@@ -1,0 +1,6 @@
+[
+  { "name": "1-ring-run.jpg", "query": "?shot=play&seed=7&mission=rings" },
+  { "name": "2-title.jpg", "query": "?shot=start&seed=7&mission=rings" }
+,
+  { "name": "3-landing.jpg", "query": "?shot=land&seed=7&mission=hop" }
+]
